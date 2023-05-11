@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aghadiry/serverless-cloudfront-invalidate.git"
+    "url": "git+https://github.com/lucasedfc/sls-cloudfront-invalidate.git"
   },
   "author": "Amir Ghadiry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aghadiry/serverless-cloudfront-invalidate/issues"
+    "url": "https://github.com/lucasedfc/sls-cloudfront-invalidate/issues"
   },
-  "homepage": "https://github.com/aghadiry/serverless-cloudfront-invalidate#readme",
+  "homepage": "https://github.com/lucasedfc/sls-cloudfront-invalidate#readme",
   "dependencies": {
     "aws-sdk": "^2.224.1",
     "chalk": "^2.3.1",
